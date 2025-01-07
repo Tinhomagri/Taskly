@@ -1,0 +1,8 @@
+
+
+
+TWILIO_ACCOUNT_SID = "Pessoal"
+TWILIO_AUTH_TOKEN = "Pessoal"
+
+SENDER_EMAIL = "Pessoal"
+SENDER_PASSWORD = "Pessoal"
